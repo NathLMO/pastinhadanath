@@ -25,8 +25,15 @@ body {
 .bg-black .subtitle h2{
     color: rgb(206, 94, 113);
     margin-top: -40px;
-    font-size: 18px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    
+
 }
+
+/*!Bagulho novo*/
+
 .bg-white{
     background-color: rgb(255, 173, 201);
     justify-content: center;
@@ -43,9 +50,11 @@ body {
 }
 
 .bg-white .subtitle h2{
-    color: rgb(255, 192, 203);
+    color: rgb(206, 94, 113);
     margin-top: -40px;
-    font-size: 18px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
 }
 
 header {
